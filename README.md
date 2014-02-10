@@ -12,3 +12,6 @@ The script creates a transcript of the voice message and parses it into a text m
 and his/her phone number, so you don't need to retrieve contact information from voicemails manually.
 
 If someone calls your Twilio number, they can leave a voice message which is sent as a text to your actual (non-Twilio) number.
+
+
+Project created at BoilerMake, a hackathon at Purdue University on February 7-9, 2014 in collaboration with my teammate Vansh Khanna (kvansh12@gmail.com).
