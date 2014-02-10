@@ -14,4 +14,7 @@ and his/her phone number, so you don't need to retrieve contact information from
 If someone calls your Twilio number, they can leave a voice message which is sent as a text to your actual (non-Twilio) number.
 
 
-Project created at BoilerMake, a hackathon at Purdue University on February 7-9, 2014 in collaboration with my teammate Vansh Khanna (kvansh12@gmail.com).
+Project created at BoilerMake, a hackathon at Purdue University on February 7-9, 2014 in collaboration with my teammate Vansh Khanna (kvansh12@gmail.com). The ChallengePost submission page is at http://boilermake.challengepost.com/submissions/20632-callnotes.
+
+Sample voice message: "My name is John Smith and my number is 1234567890."
+Received text: "Name: John Smith 123-456-7890."
