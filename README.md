@@ -2,6 +2,7 @@ CallNotes
 =========
 
 1. To run at the command: ruby callnotes.rb
+   
    Let's use an ngrok web server, which can be downloaded at https://ngrok.com/.
 
 2. After the above command, launch the server with the command: ./ngrok 4567
